@@ -8,6 +8,7 @@ Data used was scraped ffrom Twitter.com using Python.
 
 ----
 ## Data Cleaning and Analysis
+----
 Data used came clean. Days columns was added by extracting the day of the week from the date column. Analysis and visualization was done with Microsoft Power BI
 ----
 ## Findings
