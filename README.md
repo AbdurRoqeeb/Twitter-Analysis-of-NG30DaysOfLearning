@@ -15,4 +15,4 @@ Data used was scraped from Twitter.com using Python.
 2. There are a total of 207 users
 3. The user with the highest number of tweets is TheOyinbooke
 4. Wednesday is the day of the week with the most tweets.
-5. There are over 10,000 likes.
+5. Most tweets came from Android users.
